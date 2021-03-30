@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-[![musasons's GitHub stats](https://github-readme-stats.vercel.app/api?username=musason)](https://github.com/musason/github-readme-stats)
+[![musasons's GitHub stats](https://github-readme-stats.vercel.app/api?username=musason&show_icons=true&theme=radical)](https://github.com/musason/github-readme-stats)
 
 Here are some ideas to get you started:
 
