@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... Hooks
 - 👯 I’m looking to collaborate on ... ReactNative
 - 🤔 I’m looking for help with ... AppDev
@@ -14,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Expert on Zip Ties
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=musason&repo=forecast-blog&theme=tokyonight)](https://github.com/musason/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=musason&repo=shoot-tobyg&theme=tokyonight)](https://github.com/musason/github-readme-stats)
 
