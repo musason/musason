@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/zelimhan-ismailov/)
 - ⚡ Fun fact: ... Expert on Zip Ties
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=musason&repo=github-readme-stats)](https://github.com/musason/forecast-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/https://github.com/musason/forecast-blog)](https://github.com/anuraghazra/github-readme-stats)
