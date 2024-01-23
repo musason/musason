@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... AWS CloudService
+- 🌱 I’m currently learning ... AWS Cloud Services
 - 👯 I’m looking to collaborate on ... React Native
 - 💬 Ask me about ... Anything, almost anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/zelimhan-ismailov/)
