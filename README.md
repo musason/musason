@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... Hooks
-- 👯 I’m looking to collaborate on ... ReactNative
-- 🤔 I’m looking for help with ... AppDev
+- 🌱 I’m currently learning ... AWS CloudService
+- 👯 I’m looking to collaborate on ... React Native
 - 💬 Ask me about ... Anything, almost anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/zelimhan-ismailov/)
 - ⚡ Fun fact: ... Expert on Zip Ties
